@@ -1,6 +1,6 @@
 # Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 
+### DATE: 6/5/2025
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -49,8 +49,8 @@
 ![Screenshot 2025-04-22 082424](https://github.com/user-attachments/assets/51c505bc-7cc2-4641-b35a-7a36c7d6920f)
 ![Screenshot 2025-04-22 082442](https://github.com/user-attachments/assets/9d778ca9-4b98-4193-8cac-2cdf3d7bda11)
 
-### Name: Kommalagunta Charan teja
-### Register Number: 212224040163
+### Name: ISWARIYA R
+### Register Number: 212224220039
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
